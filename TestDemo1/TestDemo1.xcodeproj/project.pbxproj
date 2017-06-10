@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		045ABFA01EEC16D70065575B /* test2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045ABF9F1EEC16D70065575B /* test2.xib */; };
+		045ABFA41EEC261D0065575B /* test22222222.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045ABFA31EEC261D0065575B /* test22222222.xib */; };
 		EFF6A44C1EEC0C5B00D9B4D9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A44B1EEC0C5B00D9B4D9 /* main.m */; };
 		EFF6A44F1EEC0C5B00D9B4D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A44E1EEC0C5B00D9B4D9 /* AppDelegate.m */; };
 		EFF6A4521EEC0C5B00D9B4D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A4511EEC0C5B00D9B4D9 /* ViewController.m */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		045ABF9F1EEC16D70065575B /* test2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = test2.xib; sourceTree = "<group>"; };
+		045ABFA31EEC261D0065575B /* test22222222.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = test22222222.xib; sourceTree = "<group>"; };
 		EFF6A4471EEC0C5B00D9B4D9 /* TestDemo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDemo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFF6A44B1EEC0C5B00D9B4D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EFF6A44D1EEC0C5B00D9B4D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				EFF6A45B1EEC0C5B00D9B4D9 /* Info.plist */,
 				EFF6A44A1EEC0C5B00D9B4D9 /* Supporting Files */,
 				045ABF9F1EEC16D70065575B /* test2.xib */,
+				045ABFA31EEC261D0065575B /* test22222222.xib */,
 			);
 			path = TestDemo1;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				045ABFA01EEC16D70065575B /* test2.xib in Resources */,
 				EFF6A45A1EEC0C5B00D9B4D9 /* LaunchScreen.storyboard in Resources */,
+				045ABFA41EEC261D0065575B /* test22222222.xib in Resources */,
 				EFF6A4571EEC0C5B00D9B4D9 /* Assets.xcassets in Resources */,
 				EFF6A4551EEC0C5B00D9B4D9 /* Main.storyboard in Resources */,
 			);
