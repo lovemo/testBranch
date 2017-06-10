@@ -6,25 +6,9 @@
 	objectVersion = 46;
 	objects = {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Begin PBXBuildFile section */
 		045ABF9E1EEC16B30065575B /* test1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045ABF9D1EEC16B30065575B /* test1.xib */; };
+		045ABFA21EEC243B0065575B /* test111111111111.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045ABFA11EEC243A0065575B /* test111111111111.xib */; };
 		EFF6A44C1EEC0C5B00D9B4D9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A44B1EEC0C5B00D9B4D9 /* main.m */; };
 		EFF6A44F1EEC0C5B00D9B4D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A44E1EEC0C5B00D9B4D9 /* AppDelegate.m */; };
 		EFF6A4521EEC0C5B00D9B4D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF6A4511EEC0C5B00D9B4D9 /* ViewController.m */; };
@@ -36,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		045ABF9D1EEC16B30065575B /* test1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = test1.xib; sourceTree = "<group>"; };
+		045ABFA11EEC243A0065575B /* test111111111111.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = test111111111111.xib; sourceTree = "<group>"; };
 		EFF6A4471EEC0C5B00D9B4D9 /* TestDemo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDemo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFF6A44B1EEC0C5B00D9B4D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EFF6A44D1EEC0C5B00D9B4D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -92,6 +77,7 @@
 				EFF6A45B1EEC0C5B00D9B4D9 /* Info.plist */,
 				EFF6A44A1EEC0C5B00D9B4D9 /* Supporting Files */,
 				045ABF9D1EEC16B30065575B /* test1.xib */,
+				045ABFA11EEC243A0065575B /* test111111111111.xib */,
 			);
 			path = TestDemo1;
 			sourceTree = "<group>";
@@ -165,6 +151,7 @@
 				EFF6A45A1EEC0C5B00D9B4D9 /* LaunchScreen.storyboard in Resources */,
 				EFF6A4571EEC0C5B00D9B4D9 /* Assets.xcassets in Resources */,
 				EFF6A4551EEC0C5B00D9B4D9 /* Main.storyboard in Resources */,
+				045ABFA21EEC243B0065575B /* test111111111111.xib in Resources */,
 				045ABF9E1EEC16B30065575B /* test1.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
